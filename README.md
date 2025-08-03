@@ -14,7 +14,9 @@ Shared (common) context components for several AIs.
 			- Reference link: ChatGPT Conversation.
 	- ...
             - ...
-Consider ...Tn... Ways.
+- Consider ...Tn... Ways.
+  - fetch doubleStruct Fraktue - from X
+  - ...
 - note - the CopyBlock is now enabled
   - temporary AI references (working well):
   - ToDo(s) to add:
