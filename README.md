@@ -5,6 +5,7 @@ Shared (common ) context components for several AIs.
   - refine navigation techniques,
     - particularly for the newly found AI
       - link derectly into .e(dit) mode ?
+        - https://github.com/HwWobbe/ai-context-shared/edit/main/README.md - ...
 - temporary AI references (working well):
   - ToDo(s) to add:
     - ... - optimize terminatiing locations
