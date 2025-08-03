@@ -15,7 +15,8 @@ Shared (common) context components for several AIs.
 	- ...
             - ...
 - Consider ...Tn... Ways.
-  - fetch doubleStruct Fraktue - from X
+  - fetch doubleStrut Fraktue - from X
+    - re-engage with ...tools...generate
   - ...
 - note - the CopyBlock is now enabled
   - temporary AI references (working well):
