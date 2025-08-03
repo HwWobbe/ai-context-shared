@@ -3,7 +3,8 @@ Shared (common ) context components for several AIs.
 
 - resolve the minor name issue related to the folder structure ; ?? use Asks
   - refine navigation techniques,
-    - particularly for the newly found AI - ...
+    - particularly for the newly found AI
+      - link derectly into .e(dit) mode ?
 - temporary AI references (working well):
   - ToDo(s) to add:
     - ... - optimize terminatiing locations
