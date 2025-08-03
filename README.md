@@ -14,9 +14,9 @@ Shared (common) context components for several AIs.
 			- Reference link: ChatGPT Conversation.
 	- ...
             - ...
+Consider ...Tn... Ways.
 - note - the CopyBlock is now enabled
-  - ...
-- temporary AI references (working well):
+  - temporary AI references (working well):
   - ToDo(s) to add:
     - ... - optimize terminatiing locations
   - https://github.com/HwWobbe/ai-context-shared/pull/1#issuecomment-3148468854
