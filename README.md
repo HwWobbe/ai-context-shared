@@ -1,17 +1,18 @@
 ai-context-shared
 Shared (common) context components for several AIs.
 
-	* Resolve the minor naming issue related to the folder structure.
-	* Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
-	* Link directly into edit mode: Edit README.md.
-	* Generalize this approach to include optional destinations: DefinitiveData-DeltaAlerts.
-	* Temporary AI references (currently functioning well):
+	- Resolve the minor naming issue related to the folder structure.
+	- Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
+	- Link directly into edit mode: Edit README.md.
+	- Generalize this approach to include optional destinations: DefinitiveData-DeltaAlerts.
+          - can the generation be automated?
+	- Temporary AI references (currently functioning well):
 
-		* To-Do items to add:
+		- To-Do items to add:
 
-			* Optimize terminating locations: Pull Request Comment.
-			* Reference link: ChatGPT Conversation.
-	* ...
+			- Optimize terminating locations: Pull Request Comment.
+			- Reference link: ChatGPT Conversation.
+	- ...
             - ...
 - note - the CopyBlock is now enabled
   - ...
