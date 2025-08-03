@@ -1,12 +1,17 @@
-# ai-context-shared
-Shared (common ) context components for several AIs.
+ai-context-shared
+Shared (common) context components for several AIs.
 
-- resolve the minor name issue related to the folder structure ; ?? use Asks
-  - refine navigation techniques,
-    - particularly for the newly found AI
-      - link derectly into .e(dit) mode ?
-        - https://github.com/HwWobbe/ai-context-shared/edit/main/README.md
-          - ... generalize this to include optional diestinations
+	* Resolve the minor naming issue related to the folder structure.
+	* Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
+	* Link directly into edit mode: Edit README.md.
+	* Generalize this approach to include optional destinations: DefinitiveData-DeltaAlerts.
+	* Temporary AI references (currently functioning well):
+
+		* To-Do items to add:
+
+			* Optimize terminating locations: Pull Request Comment.
+			* Reference link: ChatGPT Conversation.
+	* ...
             - ...
 - temporary AI references (working well):
   - ToDo(s) to add:
