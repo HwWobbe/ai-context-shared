@@ -25,4 +25,4 @@ Shared (common) context components for several AIs.
   - https://github.com/HwWobbe/ai-context-shared/pull/1#issuecomment-3148468854
   - https://chatgpt.com/c/688bf9f0-a5a8-832c-a69e-2281401511ed
   - ...
-- re-confirm 3X color intensity
+- 08-04: re-confirmed 3X color intensity
