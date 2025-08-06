@@ -18,6 +18,7 @@ Shared (common) context components for several AIs.
   - fetch doubleStruck Fraktue(sd) - from ... ; notAt X
     - re-engage with ...tools...generate
   - reView workFlow at least to the first AiH instance
+    - consider(as least symboloc) distinctions of AiH / i(mage) and i(ntellence)
 - note - the CopyBlock is now enabled
   - temporary AI references (working well):
   - ToDo(s) to add:
