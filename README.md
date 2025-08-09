@@ -2,6 +2,12 @@ ai-context-shared
 Shared (common) context components for several AIs.
 
 	- Resolve the minor naming issue related to the folder structure.
+      - implementation & expansion plan: testLink
+
+	* use folders to reduce the sideBar
+	* ...
+https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
+  - ...
 	- Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
 	- Link directly into edit mode: Edit README.md.
 	- Generalize this approach to include optional destinations: DefinitiveData-DeltaAlerts.
