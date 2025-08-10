@@ -12,6 +12,7 @@ https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
       - which is ...
     - consider the usew of TextBaze as an extended data store
       - perhaps linking to chunks of Keep content
+        - this could be similar to reFactoring
 	- Link directly into edit mode: Edit README.md.
 	- Generalize this approach to include optional destinations: DefinitiveData-DeltaAlerts.
           - can the generation be automated?
