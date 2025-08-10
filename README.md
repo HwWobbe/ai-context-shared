@@ -5,7 +5,7 @@ Shared (common) context components for several AIs.
       - implementation & expansion plan: testLink
 
 	* use folders to reduce the sideBar
-	* 〖 altBracket Public 〗
+	* 〖 altBracket Public 〗- note that other alternative paired brackets exist
  
 https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
   - ...
