@@ -4,8 +4,8 @@ Shared (common) context components for several AIs.
 	- Resolve the minor naming issue related to the folder structure.
       - implementation & expansion plan: testLink
 
-	* use folders to reduce the sideBar
-	* 〖 altBracket Public 〗- note that other alternative paired brackets exist
+	- use folders to reduce the sideBar
+	- 〖 altBracket Public 〗- note that other alternative paired brackets exist
  
 https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
   - ...
