@@ -5,7 +5,8 @@ Shared (common) context components for several AIs.
       - implementation & expansion plan: testLink
 
 	* use folders to reduce the sideBar
-	* ...
+	* 〖 altBracket Public 〗
+ 
 https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
   - ...
 	- Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
