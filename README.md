@@ -23,8 +23,8 @@ https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
 
 			- Optimize terminating locations: Pull Request Comment.
 			- Reference link: ChatGPT Conversation.
-	- ...
-            - ...
+	- 0810: confirmed that 3X loxer+1 is still the shading threshold
+      - ...
 - Consider ...Tn... Ways.
   - fetch doubleStruck Fraktue(sd) - from ... ; notAt X
     - re-engage with ...tools...generate
