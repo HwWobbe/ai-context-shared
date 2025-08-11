@@ -10,7 +10,9 @@ Shared (common) context components for several AIs.
 https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
 
   - GistH focue as a small dogression
-    - ...
+    - 1st: verify the shading effects are still correct
+    - review: GistsH
+
   - ...
 	- Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
       - which is ( to be confirmed ) a virtual GfH instance
