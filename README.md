@@ -8,6 +8,9 @@ Shared (common) context components for several AIs.
 	- 〖 altBracket Public 〗- note that other alternative paired brackets exist
  
 https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
+
+  - GistH focue as a small dogression
+    - ...
   - ...
 	- Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
       - which is ( to be confirmed ) a virtual GfH instance
