@@ -9,7 +9,7 @@ Shared (common) context components for several AIs.
  
 https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
 
-  - GistH focue as a small dogression
+  - GistH focue as a small digression
     - 1st: verify the shading effects are still correct
     - review: GistsH
 
