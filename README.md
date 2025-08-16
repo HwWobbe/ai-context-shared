@@ -10,8 +10,8 @@ Shared (common) context components for several AIs.
 https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
 
   - GistH focus is a small digression
-    - 1st: verify the shading effects are still correct
     - review: GistsH
+    - 0815: verify the shading effects are still correct
 
   - ...
 	- Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
