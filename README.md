@@ -12,6 +12,7 @@ https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
   - GistH focus is a small digression
     - review: GistsH
       - 0824: ReView GistsH further
+        - use TextBlaze more to standardize blocks
     - 0815: verified the shading effects are still correct
 
   - ...
