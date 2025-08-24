@@ -11,7 +11,8 @@ https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
 
   - GistH focus is a small digression
     - review: GistsH
-    - 0815: verify the shading effects are still correct
+    - 0824: ReView GistsH further
+    - 0815: verified the shading effects are still correct
 
   - ...
 	- Utilize "Asks" to refine navigation techniques, particularly for the newly discovered AI.
