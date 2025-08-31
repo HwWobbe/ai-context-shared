@@ -1,9 +1,9 @@
-ai-context-shared
-Shared (common) context components for several AIs.
-
-	- Resolve the minor naming issue related to the folder structure.
+ai-context-shared folder structure.
       - implementation & expansion plan: testLink
 
+Shared (common) context components for several AIs.
+
+	- Resolve the minor naming issue related to the
 	- use folders to reduce the sideBar
 	- 〖 altBracket Public 〗- note that other alternative paired brackets exist
  
@@ -34,6 +34,12 @@ https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
 	- 0810: confirmed that 3X loxer+1 is still the shading threshold
       - ...
 - 2025-09: preparations
+  -  0901: GeminiCli
+    - ...
+  - 0919: dashBoards
+    - $+
+    - $-
+    - $+
   - extend automation ( just a bit )
     - awaiting common ConText(s)
       - TextBlaze considerations
