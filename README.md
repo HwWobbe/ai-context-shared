@@ -36,6 +36,7 @@ https://chatgpt.com/c/b8067352-229f-450a-8136-fbb784441e92
 - 2025-09: preparations
   - extend automation ( just a bit )
     - awaiting common ConText(s)
+      - TextBlaze considerations
 - Consider ...Tn... Ways.
   - fetch doubleStruck Fraktue(sd) - from ... ; notAt X
     - re-engage with ...tools...generate
